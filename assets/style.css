@@ -1,0 +1,24 @@
+button{
+    background-color: indianred;
+    font-size: 18px;
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+form{
+    float:right;
+}
+.display{
+    float: left;
+}
+img{
+    margin: 10px;
+}
+.nicefont{
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+input[type=submit]{
+    font-family: 'ZCOOL KuaiLe', cursive;
+    background-color: indianred;
+    padding:10px 20px; 
+    font-size: 14px;
+}
